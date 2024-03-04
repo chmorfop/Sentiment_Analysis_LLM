@@ -1,4 +1,4 @@
-# Sentiment_Analysis_LLM
+# Sentiment_Analysis
 Sentiment Analysis in Greek movie reviews with pretrained Large Language Models.
 
 **Finetuned Models**:
@@ -13,8 +13,6 @@ Ratings from a total of 6481 movies.
 (https://www.kaggle.com/datasets/nikosfragkis/greek-movies-dataset)
 
 Below are Wordcloud visualization for positive and negative reviews 
-and the distribution of the sentiments in the training dataset.
-![Example Image](images/im_3.png)
 
 ![Example Image](images/im_1.png)
 
