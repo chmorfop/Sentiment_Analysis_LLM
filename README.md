@@ -12,7 +12,7 @@ Ratings from 6481 unique movies.
 (https://www.athinorama.gr/)
 (https://www.kaggle.com/datasets/nikosfragkis/greek-movies-dataset)
 
-Below are Wordcloud visualization for positive and negative reviews 
+Below are Wordcloud visualizations for positive and negative reviews.
 
 ![Example Image](images/im_1.png)
 
