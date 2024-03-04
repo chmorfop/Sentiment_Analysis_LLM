@@ -7,8 +7,8 @@ Sentiment Analysis in Greek movie reviews with pretrained Large Language Models.
 * ***GPT2***
 
 ***Data Analysis***
-Roughly 150.000 movie reviews from Athinorama with 3 main sentiments positive-negative-neutral.
-Ratings from a total of 6481 movies.
+A total of 150.000 movie reviews from Athinorama with 3 main sentiments positive-negative-neutral.
+Ratings from 6481 unique movies.
 (https://www.athinorama.gr/)
 (https://www.kaggle.com/datasets/nikosfragkis/greek-movies-dataset)
 
